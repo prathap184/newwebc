@@ -11,6 +11,54 @@
     <link rel="stylesheet" href="projects.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <title>Portpolio.com</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+
+        header h1, p {
+            color: white; 
+        }
+
+        .share-buttons {
+            display: flex;
+            justify-content: center; 
+            gap: 15px;
+            margin-top: 20px;
+            
+        }
+
+        .share-button {
+            text-decoration: none;
+            color: white; 
+            padding: 10px 20px;
+            border-color: red;
+            border-radius: 5px;
+            
+            font-size: 18px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            transition: background-color 0.3s;
+        }
+
+        
+        .fb { background-color: transparent; height: 20px; width: 20px; border-radius: 7px; border-color: red; }   
+        .wp { background-color: transparent; }   
+        .tw { background-color: transparent; }  
+        .ln { background-color: transparent; }   
+        .mail { background-color: transparent; } 
+
+        
+        .share-button:hover {
+            border-color: white;
+            background-color: red; 
+            border-color: white;
+        }
+
+        .share-button i {
+            border-color: white;
+            font-size: 18px;
+        }
+    </style>
 </head>
 <body>  
     
@@ -37,14 +85,49 @@
                 <div class="ab">
                     <button id="aa">Hire me</button>
                     <button id="b">Lets talk</button>
+                    <div id="rt">
+                        <div class="share-buttons">
+                            <a href="https://www.facebook.com/sharer/sharer.php?u=https://your-portfolio-link.com" 
+                               class="share-button fb" target="_blank">
+                                <i class="fab fa-facebook-f"></i> 
+                            </a>
+                            
+                            <a href="https://api.whatsapp.com/send?text=Check%20out%20this%20awesome%20portfolio:%20https://your-portfolio-link.com" 
+                               class="share-button wp" target="_blank">
+                                <i class="fab fa-whatsapp"></i> 
+                            </a>
+                            
+                            <a href="https://twitter.com/intent/tweet?url=https://your-portfolio-link.com&text=Check%20out%20this%20awesome%20portfolio!" 
+                               class="share-button tw" target="_blank">
+                                <i class="fab fa-twitter"></i> 
+                            </a>
+                            
+                            <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://your-portfolio-link.com" 
+                               class="share-button ln" target="_blank">
+                                <i class="fab fa-linkedin-in"></i>
+                            </a>
+                            
+                            <a href="mailto:?subject=Check%20out%20this%20awesome%20portfolio&body=Here%20is%20a%20great%20portfolio:%20https://your-portfolio-link.com" 
+                               class="share-button mail" target="_blank">
+                                <i class="fas fa-envelope"></i> 
+                            </a>
+                        </div>
+                    </div>
                 </div>
+
+            </div>
         </div>
-        
+                    
    </div>
-   <div id="projects">
-        <button id="s" style="color: white ;">
-            <a href="projects.html" >PROJECTS </a>
-        </button>
-   </div>
+   <div id="gh">
+        <div id="projects" style="display: flex; flex-direction: column;">
+            <button id="s" style="color: white ;">
+                <a style="color: white;" href="projects.html" >PROJECTS </a>
+            </button>
+        </div>
+        <div id="suhas" ><h6 id="li">click here to see my teammates details  <button><a href="suhashomehtml.html">click here</a></button></h6></div>
+        <div id="suhas" style="margin-top: 0px;"><h6 id="li">click here to see my teammates details <button><a href="vidhyashree.html">click here</a></button></h6></div>
+    </div>
+   
 </body>
 </html>

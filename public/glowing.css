@@ -1,0 +1,73 @@
+#schoo{
+    text-align: left;
+    margin-left: 150PX;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: white;
+    text-shadow: 0 0 2px rgb(230, 84, 11), 0 0 2px rgb(241, 93, 7), 0 0 5px rgb(236, 83, 18), 0 0 5px rgb(233, 74, 6);
+    background-color: black; 
+}
+#board{
+
+    font-weight: bold;
+    text-transform: uppercase;
+    color: white; 
+    text-shadow: 0 0 2px rgb(243, 239, 235), 0 0 2px rgb(243, 239, 235), 0 0 2px rgb(243, 239, 235), 0 0 2px rgb(243, 239, 235);
+    background-color: black; 
+}
+#gnana{
+    font-weight: bold;
+    text-transform: uppercase;
+    color: white; 
+    text-shadow: 0 0 2px rgb(243, 239, 235), 0 0 2px rgb(243, 239, 235), 0 0 2px rgb(243, 239, 235), 0 0 2px rgb(243, 239, 235);
+    background-color: black; 
+}
+#tq{
+
+    font-weight: bold;
+    text-transform: uppercase;
+    color: white; 
+    text-shadow: 0 0 2px rgb(243, 239, 235), 0 0 2px rgb(243, 239, 235), 0 0 2px rgb(243, 239, 235), 0 0 2px rgb(243, 239, 235);
+    background-color: black; 
+}
+#board1{
+
+    font-weight: bold;
+    text-transform: uppercase;
+    color: white; 
+    text-shadow: 0 0 2px rgb(243, 239, 235), 0 0 2px rgb(243, 239, 235), 0 0 2px rgb(243, 239, 235), 0 0 2px rgb(243, 239, 235);
+    background-color: black; 
+}
+#gnana1{
+    font-weight: bold;
+    text-transform: uppercase;
+    color: white;
+    text-shadow: 0 0 2px rgb(243, 239, 235), 0 0 2px rgb(243, 239, 235), 0 0 2px rgb(243, 239, 235), 0 0 2px rgb(243, 239, 235);
+    background-color: black; 
+}
+#tq1{
+
+    font-weight: bold;
+    text-transform: uppercase;
+    color: white; 
+    text-shadow: 0 0 2px rgb(243, 239, 235), 0 0 2px rgb(243, 239, 235), 0 0 2px rgb(243, 239, 235), 0 0 2px rgb(243, 239, 235);
+    background-color: black; 
+}
+#schoo11{
+    text-align: left;
+    margin-left: 150PX;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: white;
+    text-shadow: 0 0 2px rgb(230, 84, 11), 0 0 2px rgb(241, 93, 7), 0 0 5px rgb(236, 83, 18), 0 0 5px rgb(233, 74, 6);
+    background-color: black; 
+}
+#scg{
+    text-align: left;
+    margin-left: 150PX;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: white;
+    text-shadow: 0 0 2px rgb(230, 84, 11), 0 0 2px rgb(241, 93, 7), 0 0 5px rgb(236, 83, 18), 0 0 5px rgb(233, 74, 6);
+    background-color: black; 
+}

@@ -1,0 +1,12 @@
+nav {
+  background: linear-gradient(90deg, trasparent, rgba(239, 6, 6, 0.4),trasparent);
+  height: 50px;
+  display: flex;
+  align-items: center;
+  margin-left: 20%;
+  gap: 30px;
+  position: relative;
+  z-index: 100;
+  backdrop-filter: blur(50px);
+  border-bottom: rgb(229, 72, 72);
+}

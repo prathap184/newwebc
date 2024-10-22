@@ -1,0 +1,39 @@
+.box{
+    position: relative;
+    top: 60px;
+    width: 499px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    left: 100px;
+}
+.box::before{
+    content: '';
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    right: -2px;
+    bottom: -2px;
+    background: white;
+    z-index: -1;
+    border-radius: 50%;
+}
+.box::after{
+    content: '';
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    right: -2px;
+    bottom: -2px;
+    background: white;
+    z-index: -2;
+    filter: blur(10px);
+    border-radius: 50%;
+}
+.box::before,.box::after{
+    
+}
+.content{
+    border-radius: 50%;
+}

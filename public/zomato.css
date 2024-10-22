@@ -1,0 +1,238 @@
+#q{
+    background-image: url(zomatoproject.jpg);
+    background-repeat: no-repeat;
+    width: 1600px;
+    height: 550px;
+    color: rgb(207, 43, 43);
+    word-spacing: 20px;
+}
+#a{
+    position: absolute;
+    top: 0px;
+    right: 300px;
+    font-size: 15pt;
+}
+#y{
+    position: absolute;
+    top: 150px;
+    right: 570px;
+    font-size: 80pt;
+    color: white;
+}
+#g{
+    border: 2px solid white;
+    color: black;
+    margin: 0 auto;
+    font-size: xx-large;
+    white-space: pre-wrap;
+    position: relative;
+    top: 40px;
+    margin: autos;
+}
+#b{
+    position: absolute;
+    top: 330px;
+    right: 500px;
+    color: white;
+}
+#o{
+    position: absolute;
+    top: 360px;
+    right: 610px;
+    color: white;
+}
+#l{
+    border: 2px solid white;
+    color: rgb(88, 83, 83);
+    position: relative;
+    top: 50px;
+    left: 350px;
+}
+#f{
+    border: 2px solid white;
+    color: rgb(88, 83, 83);
+    position: relative;
+    top: 30px;
+    left: 350px;
+    white-space: pre-wrap;
+}
+#p{
+    border: 2px solid white;
+    color: rgb(88, 83, 83);
+    position: relative;
+    top: 10px;
+    left: 350px;
+    white-space: pre-wrap;
+}
+#j{
+    border: 2px solid whitesmoke;
+    height: 50px;
+    width: 350px;
+    position: absolute;
+    left: 200px;
+    top: 760px;
+    
+    font-size: 20pt;
+}
+#d{
+    border: 2px solid whitesmoke;
+    height: 50px;
+    width: 350px;
+    position: absolute;
+    left: 650px;
+    top: 760px;
+    
+    font-size: 20pt;
+}
+#c{
+    border: 2px solid whitesmoke;
+    height: 50px;
+    width: 350px;
+    position: absolute;
+    left: 1100px;
+    top: 760px;
+
+    font-size: 20pt;
+}
+#w{
+    border: 2px solid whitesmoke;
+    height: 50px;
+    width: 350px;
+    position: absolute;
+    left: 200px;
+    top: 840px;
+    
+    font-size: 20pt;
+}
+#x{
+    border: 2px solid whitesmoke;
+    height: 50px;
+    width: 350px;
+    position: absolute;
+    left: 650px;
+    top: 840px;
+    
+    font-size: 20pt;
+}
+#t{
+    border: 2px solid whitesmoke;
+    height: 50px;
+    width: 350px;
+    position: absolute;
+    left: 1100px;
+    top: 840px;
+    font-size: 20pt;
+}
+#u{
+    border: 2px solid rgb(81, 80, 80);
+    width: 1450px;
+    height: 570px;
+    background-color: whitesmoke;
+    position: absolute;
+    top: 970px;
+}
+#ab{
+    position: absolute;
+    top: 20px;
+    left: 200px;
+    color: black;
+    font-size: 35pt;
+
+}
+#cd{
+    border: 2px solid rgb(37, 36, 36);
+    height: 30px;
+    width: 100px;
+    position: absolute;
+    right: 250px;
+    top: 20px;
+    white-space: pre-wrap;
+
+}
+#ef{
+    border: 2px solid rgb(37, 36, 36);
+    height: 30px;
+    width: 100px;
+    position: absolute;
+    right: 100px;
+    top: 20px;
+    white-space: pre-wrap;
+
+}
+#gh{
+    position: absolute;
+    left: 200px;
+    top: 140px;
+    white-space: pre-wrap;
+
+}
+#ij{
+    position: absolute;
+    left: 200px;
+    top: 170px;
+    white-space: pre-wrap;
+
+}
+#kl{
+    position: absolute;
+    left: 200px;
+    top: 200px;
+    white-space: pre-wrap;
+
+}
+#mn{
+    position: absolute;
+    left: 200px;
+    top: 230px;
+    white-space: pre-wrap;
+
+}
+#op{
+    position: absolute;
+    left: 200px;
+    top: 260px;
+    white-space: pre-wrap;
+
+}
+#qr{
+    position: absolute;
+    left: 200px;
+    top: 290px;
+    white-space: pre-wrap;
+
+}
+#st{
+    position: absolute;
+    left: 200px;
+    top: 320px;
+    white-space: pre-wrap;
+
+}
+#uv{
+    position: absolute;
+    left: 200px;
+    top: 350px;
+    white-space: pre-wrap;
+
+}
+#uyt{
+    position: absolute;
+    left: 200px;
+    top: 450px;
+    white-space: pre-wrap;
+    text-decoration: underline;
+}
+#po{
+    position: absolute;
+    left: 200px;
+    top: 500px;
+    white-space: pre-wrap;
+    
+}
+#pl{
+    position: absolute;
+    left: 200px;
+    top: 520px;
+    white-space: pre-wrap;
+    
+}
